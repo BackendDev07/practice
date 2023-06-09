@@ -1,0 +1,17 @@
+{
+    "id": 2,
+    "products": [
+        {
+            "id": 0,
+            "title": "IPhone 15 Pro Max S",
+            "description": "This is IPhone",
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "title": "Redmi promax s note super prime",
+            "description": "asdasdw",
+            "price": 100
+        }
+    ]
+}
